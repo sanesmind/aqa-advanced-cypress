@@ -1,0 +1,23 @@
+{
+  "name": "aqa-advanced-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress test",
+    "open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanesmind/aqa-advanced-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanesmind/aqa-advanced-cypress/issues"
+  },
+  "homepage": "https://github.com/sanesmind/aqa-advanced-cypress#readme",
+  "devDependencies": {
+    "cypress": "^15.5.0"
+  }
+}
