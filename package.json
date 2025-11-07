@@ -19,5 +19,8 @@
   "homepage": "https://github.com/sanesmind/aqa-advanced-cypress#readme",
   "devDependencies": {
     "cypress": "^15.5.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.1.0"
   }
 }
