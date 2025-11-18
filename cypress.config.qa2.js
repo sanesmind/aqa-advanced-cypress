@@ -16,11 +16,11 @@ module.exports = defineConfig({
         openMode: 0
     },
     env:{
-      login: "Dzheripa1@test.com",
-      password: "testPass321",
+        login: "Dzheripa2@test.com",
+        password: "testPass123",
     },
     e2e: {
-        baseUrl: "https://qauto.forstudy.space",
+        baseUrl: "https://qauto2.forstudy.space",
         waitForFileChanges: true,
         specPattern: "cypress/e2e/**/*.test.{js,jsx,ts,tsx}",
         setupNodeEvents(on, config) {
